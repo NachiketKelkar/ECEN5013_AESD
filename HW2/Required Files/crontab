@@ -1,0 +1,1 @@
+*/10 * * * * /./sorting /output_for_sort.txt 2>&1

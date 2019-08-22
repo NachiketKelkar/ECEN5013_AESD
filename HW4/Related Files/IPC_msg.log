@@ -1,0 +1,48 @@
+The IPC method being used is message queues
+
+This is Server process PID - 8077
+
+[1551488706731319 usec] Server Received : 0 - Bye bye
+[1551488706731542 usec] Server Sending  : 0 - You sent message:Bye bye
+[1551488706731638 usec] Server Received : 0 - Bye bye
+[1551488706731653 usec] Server Sending  : 0 - You sent message:Bye bye
+[1551488706731814 usec] Server Received : 0 - Bye bye
+[1551488706731833 usec] Server Sending  : 0 - You sent message:Bye bye
+[1551488706731902 usec] Server Received : 0 - Bye bye
+[1551488706731915 usec] Server Sending  : 0 - You sent message:Bye bye
+[1551488706731981 usec] Server Received : 1 - LED ON
+[1551488706731994 usec] Server Sending  : 1 - LED is now ON
+[1551488706732060 usec] Server Received : 0 - Hello
+[1551488706732073 usec] Server Sending  : 0 - You sent message:Hello
+[1551488706732138 usec] Server Received : 0 - Hello
+[1551488706732151 usec] Server Sending  : 0 - You sent message:Hello
+[1551488706732217 usec] Server Received : 1 - LED ON
+[1551488706732231 usec] Server Sending  : 1 - LED is now ON
+[1551488706732297 usec] Server Received : 1 - LED OFF
+[1551488706732310 usec] Server Sending  : 1 - LED is now OFF
+[1551488706732374 usec] Server Received : 0 - Good morning
+[1551488706732387 usec] Server Sending  : 0 - You sent message:Good morning
+The IPC method being used is message queues
+
+This is Client process PID - 8081
+
+[1551488706731269 usec] Client Sending  : 0 - Bye bye
+[1551488706731613 usec] Client Received : 0 - You sent message:Bye bye
+[1551488706731618 usec] Client Sending  : 0 - Bye bye
+[1551488706731791 usec] Client Received : 0 - You sent message:Bye bye
+[1551488706731795 usec] Client Sending  : 0 - Bye bye
+[1551488706731886 usec] Client Received : 0 - You sent message:Bye bye
+[1551488706731889 usec] Client Sending  : 0 - Bye bye
+[1551488706731964 usec] Client Received : 0 - You sent message:Bye bye
+[1551488706731967 usec] Client Sending  : 1 - LED ON
+[1551488706732044 usec] Client Received : 1 - LED is now ON
+[1551488706732047 usec] Client Sending  : 0 - Hello
+[1551488706732122 usec] Client Received : 0 - You sent message:Hello
+[1551488706732125 usec] Client Sending  : 0 - Hello
+[1551488706732201 usec] Client Received : 0 - You sent message:Hello
+[1551488706732204 usec] Client Sending  : 1 - LED ON
+[1551488706732281 usec] Client Received : 1 - LED is now ON
+[1551488706732284 usec] Client Sending  : 1 - LED OFF
+[1551488706732358 usec] Client Received : 1 - LED is now OFF
+[1551488706732361 usec] Client Sending  : 0 - Good morning
+[1551488706733324 usec] Client Received : 0 - You sent message:Good morning

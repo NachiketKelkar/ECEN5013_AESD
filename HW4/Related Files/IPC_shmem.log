@@ -1,0 +1,47 @@
+Shared memory use for Inter Process Communication
+
+This is process2 PID - 8370
+[1551489111554321 usec] Process2 Data Receiving: 0 - Bye Bye
+[1551489111554357 usec] Process2 Data Sending:   0 - You sent message:Bye Bye
+[1551489111554662 usec] Process2 Data Receiving: 0 - Good morning
+[1551489111554687 usec] Process2 Data Sending:   0 - You sent message:Good morning
+[1551489111555018 usec] Process2 Data Receiving: 1 - LED OFF
+[1551489111555042 usec] Process2 Data Sending:   1 - LED is now OFF
+[1551489111555343 usec] Process2 Data Receiving: 0 - Good morning
+[1551489111555367 usec] Process2 Data Sending:   0 - You sent message:Good morning
+[1551489111555883 usec] Process2 Data Receiving: 0 - Hello
+[1551489111555919 usec] Process2 Data Sending:   0 - You sent message:Hello
+[1551489111556254 usec] Process2 Data Receiving: 1 - LED ON
+[1551489111556281 usec] Process2 Data Sending:   1 - LED is now ON
+[1551489111556742 usec] Process2 Data Receiving: 0 - Hello
+[1551489111556769 usec] Process2 Data Sending:   0 - You sent message:Hello
+[1551489111557098 usec] Process2 Data Receiving: 1 - LED ON
+[1551489111557120 usec] Process2 Data Sending:   1 - LED is now ON
+[1551489111557410 usec] Process2 Data Receiving: 0 - Hello
+[1551489111557431 usec] Process2 Data Sending:   0 - You sent message:Hello
+[1551489111557794 usec] Process2 Data Receiving: 1 - LED ON
+[1551489111557824 usec] Process2 Data Sending:   1 - LED is now ON
+
+Shared memory use for Inter Process Communication
+
+This is process1 PID - 8371
+[1551489111554091 usec] Process1 Data Sending:   0 - Bye Bye
+[1551489111554537 usec] Process1 Data Receiving: 0 - You sent message:Bye Bye
+[1551489111554591 usec] Process1 Data Sending:   0 - Good morning
+[1551489111554805 usec] Process1 Data Receiving: 0 - You sent message:Good morning
+[1551489111554840 usec] Process1 Data Sending:   1 - LED OFF
+[1551489111555214 usec] Process1 Data Receiving: 1 - LED is now OFF
+[1551489111555262 usec] Process1 Data Sending:   0 - Good morning
+[1551489111555585 usec] Process1 Data Receiving: 0 - You sent message:Good morning
+[1551489111555643 usec] Process1 Data Sending:   0 - Hello
+[1551489111556120 usec] Process1 Data Receiving: 0 - You sent message:Hello
+[1551489111556168 usec] Process1 Data Sending:   1 - LED ON
+[1551489111556465 usec] Process1 Data Receiving: 1 - LED is now ON
+[1551489111556520 usec] Process1 Data Sending:   0 - Hello
+[1551489111556912 usec] Process1 Data Receiving: 0 - You sent message:Hello
+[1551489111556981 usec] Process1 Data Sending:   1 - LED ON
+[1551489111557294 usec] Process1 Data Receiving: 1 - LED is now ON
+[1551489111557334 usec] Process1 Data Sending:   0 - Hello
+[1551489111557583 usec] Process1 Data Receiving: 0 - You sent message:Hello
+[1551489111557627 usec] Process1 Data Sending:   1 - LED ON
+[1551489111558016 usec] Process1 Data Receiving: 1 - LED is now ON

@@ -1,0 +1,8 @@
+set sysroot ~/AESD/HW2/Problem3/buildroot/output/staging
+target extended-remote 128.138.189.69:10000
+remote put /home/nachiket/AESD/HW3/trackcalls trackcalls
+set remote exec-file trackcalls
+break main
+run
+s
+c

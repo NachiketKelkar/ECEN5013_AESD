@@ -1,0 +1,54 @@
+Pipes are used for inter process communication
+
+
+This is child process PID - 8241
+
+[1551488918852249 usec] Child Received: 1 - LED OFF
+[1551488918852266 usec] Child Sending : 1 - LED is now OFF
+[1551488918852604 usec] Child Received: 0 - How are you
+[1551488918852610 usec] Child Sending : 0 - Message successfully received
+[1551488918852955 usec] Child Received: 0 - How are you
+[1551488918852961 usec] Child Sending : 0 - Message successfully received
+[1551488918853405 usec] Child Received: 0 - My last message
+[1551488918853412 usec] Child Sending : 0 - Message successfully received
+[1551488918853838 usec] Child Received: 0 - Good morning
+[1551488918853845 usec] Child Sending : 0 - Message successfully received
+[1551488918854237 usec] Child Received: 0 - Good morning
+[1551488918854244 usec] Child Sending : 0 - Message successfully received
+[1551488918854634 usec] Child Received: 1 - LED ON
+[1551488918854641 usec] Child Sending : 1 - LED is now ON
+[1551488918855125 usec] Child Received: 1 - LED OFF
+[1551488918855132 usec] Child Sending : 1 - LED is now OFF
+[1551488918855636 usec] Child Received: 0 - Hello I am parent
+[1551488918855644 usec] Child Sending : 0 - Message successfully received
+[1551488918855876 usec] Child Received: 1 - LED ON
+[1551488918855882 usec] Child Sending : 1 - LED is now ON
+[1551488920969961] Received Termination signal - 2
+
+Pipes are used for inter process communication
+
+
+This is Parent process PID - 8240
+
+[1551488918851911 usec] Parent Sending : 1 - LED OFF
+[1551488918852426 usec] Parent Received: 1 - LED is now OFF
+[1551488918852434 usec] Parent Sending : 0 - How are you
+[1551488918852753 usec] Parent Received: 0 - Message successfully received
+[1551488918852760 usec] Parent Sending : 0 - How are you
+[1551488918853120 usec] Parent Received: 0 - Message successfully received
+[1551488918853194 usec] Parent Sending : 0 - My last message
+[1551488918853608 usec] Parent Received: 0 - Message successfully received
+[1551488918853616 usec] Parent Sending : 0 - Good morning
+[1551488918854004 usec] Parent Received: 0 - Message successfully received
+[1551488918854012 usec] Parent Sending : 0 - Good morning
+[1551488918854409 usec] Parent Received: 0 - Message successfully received
+[1551488918854416 usec] Parent Sending : 1 - LED ON
+[1551488918854798 usec] Parent Received: 1 - LED is now ON
+[1551488918854805 usec] Parent Sending : 1 - LED OFF
+[1551488918855285 usec] Parent Received: 1 - LED is now OFF
+[1551488918855292 usec] Parent Sending : 0 - Hello I am parent
+[1551488918855726 usec] Parent Received: 0 - Message successfully received
+[1551488918855733 usec] Parent Sending : 1 - LED ON
+[1551488918856044 usec] Parent Received: 1 - LED is now ON
+[1551488920970003] Received Termination signal - 2
+

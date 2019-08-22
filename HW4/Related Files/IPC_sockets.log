@@ -1,0 +1,50 @@
+The sockets are used for Inter Process Communication
+
+
+This is server process PID - 8393
+
+[1551489290207602 usec] Server Data received is 1 - LED OFF
+[1551489290207675 usec] Server Data sent is     1 - LED is now OFF
+[1551489290208163 usec] Server Data received is 1 - LED OFF
+[1551489290208189 usec] Server Data sent is     1 - LED is now OFF
+[1551489290208329 usec] Server Data received is 0 - Hello
+[1551489290208382 usec] Server Data sent is     0 - You sent the message - Hello
+[1551489290208518 usec] Server Data received is 1 - LED OFF
+[1551489290208557 usec] Server Data sent is     1 - LED is now OFF
+[1551489290208688 usec] Server Data received is 1 - LED ON
+[1551489290208726 usec] Server Data sent is     1 - LED is now ON
+[1551489290208856 usec] Server Data received is 0 - Hello
+[1551489290208894 usec] Server Data sent is     0 - You sent the message - Hello
+[1551489290209034 usec] Server Data received is 1 - LED ON
+[1551489290209073 usec] Server Data sent is     1 - LED is now ON
+[1551489290209208 usec] Server Data received is 0 - Hello
+[1551489290209246 usec] Server Data sent is     0 - You sent the message - Hello
+[1551489290209379 usec] Server Data received is 1 - LED OFF
+[1551489290209418 usec] Server Data sent is     1 - LED is now OFF
+[1551489290209550 usec] Server Data received is 0 - Hello
+[1551489290209590 usec] Server Data sent is     0 - You sent the message - Hello
+The sockets are used for Inter Process Communication
+
+
+This is client process PID - 8395
+
+[1551489290207436 usec] Client Data Sent is     1 - LED OFF
+[1551489290208014 usec] Client Data received is 1 - LED is now OFF
+[1551489290208085 usec] Client Data Sent is     1 - LED OFF
+[1551489290208251 usec] Client Data received is 1 - LED is now OFF
+[1551489290208283 usec] Client Data Sent is     0 - Hello
+[1551489290208432 usec] Client Data received is 0 - You sent the message - Hello
+[1551489290208473 usec] Client Data Sent is     1 - LED OFF
+[1551489290208606 usec] Client Data received is 1 - LED is now OFF
+[1551489290208644 usec] Client Data Sent is     1 - LED ON
+[1551489290208774 usec] Client Data received is 1 - LED is now ON
+[1551489290208812 usec] Client Data Sent is     0 - Hello
+[1551489290208943 usec] Client Data received is 0 - You sent the message - Hello
+[1551489290208984 usec] Client Data Sent is     1 - LED ON
+[1551489290209124 usec] Client Data received is 1 - LED is now ON
+[1551489290209163 usec] Client Data Sent is     0 - Hello
+[1551489290209296 usec] Client Data received is 0 - You sent the message - Hello
+[1551489290209335 usec] Client Data Sent is     1 - LED OFF
+[1551489290209466 usec] Client Data received is 1 - LED is now OFF
+[1551489290209504 usec] Client Data Sent is     0 - Hello
+[1551489290210483 usec] Client Data received is 0 - You sent the message - Hello
